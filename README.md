@@ -5,3 +5,4 @@ week 3: Began augmentation of dataset images
 week 4: Completed augmentation of downloaded dataset and stored the augmented images to new dataset. Also tested how these images work with ResNet18 CNN
 Week 6: Began work on coding pipeline and documentation on implementation.
 Week 7: Worked on draft of implementation chapter and coding the model
+Week 8: Redrafting implementation chapter and beginning work on evaluation/testing chapter
